@@ -16,4 +16,4 @@ Test `test`
 
 <p>Example<p>
 
- let num = Math.Random();
+![image](http://picsum.photos/200/200)
