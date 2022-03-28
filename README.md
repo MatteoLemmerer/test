@@ -21,3 +21,5 @@ Test `test`
  > block quote
 
 This is being *created* on a **Friday**
+
+  This is *italic* this is **bold** 
