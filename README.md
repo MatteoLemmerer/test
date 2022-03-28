@@ -19,3 +19,5 @@ Test `test`
 ![image](http://picsum.photos/200/200)
 
  > block quote
+
+  * italic * ** bold **
