@@ -22,4 +22,4 @@ Test `test`
 
 This is being *created* on a **Friday**
 
-  This is *italic* this is **bold** 
+  This is *italic* this is **bold** this is ~~strikethrough~~
