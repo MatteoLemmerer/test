@@ -10,4 +10,4 @@ Aufzählung:
  - 4
   - 5
 
-[link](www.google.com)
+[link](https://www.google.com/)
