@@ -20,4 +20,4 @@ Test `test`
 
  > block quote
 
- t * italic * t ** bold **
+This is being *created* on a **Friday**
